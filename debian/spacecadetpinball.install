@@ -1,0 +1,5 @@
+bin/* usr/lib/spacecadetpinball
+debian/extra/SpaceCadetPinball usr/bin/
+debian/extra/PINBALLDATA/* usr/lib/spacecadetpinball
+debian/extra/spacecadetpinball.desktop usr/share/applications
+SpaceCadetPinball/Icon_1.ico usr/lib/spacecadetpinball

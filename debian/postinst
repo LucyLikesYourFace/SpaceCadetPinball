@@ -1,0 +1,7 @@
+#! /bin/sh
+echo "###########################"
+echo "Note:"
+echo "Original data files from the Windows or full tilt version of space cadet pinball are required to run."
+echo "These are not provided by default and must be sourced yourself and placed in the install dir (/usr/lib/spacecadetpinball)."
+echo "They can also be added to debian/extra/PINBALLDATA if building .deb from source."
+echo "###########################"
