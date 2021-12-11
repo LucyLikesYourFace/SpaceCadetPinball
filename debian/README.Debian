@@ -2,7 +2,7 @@ spacecadetpinball for Debian
 ---------------------------
 
 Original data files from the Windows or full tilt version of space cadet pinball are required to run.
-These are not provided by default and must be sourced yourself and placed in the install dir (/usr/lib/spacecadetpinball).
+These are not provided by default and must be sourced yourself and placed in the install dir (/usr/share/SpaceCadetPinball).
 They can also be added to debian/extra/PINBALLDATA if building .deb from source.
 
  -- Lucy <lucylikesyourface@gmail.com>  Thu, 02 Dec 2021 01:04:32 +0000

@@ -1,3 +1,4 @@
 #! /bin/sh
+# This has been made obsolete by changes to upstream (3400ea4)
 cd /usr/lib/spacecadetpinball
 ./SpaceCadetPinball

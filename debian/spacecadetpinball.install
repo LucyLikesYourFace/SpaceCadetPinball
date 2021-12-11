@@ -1,4 +1,3 @@
-bin/* usr/lib/spacecadetpinball
-debian/extra/SpaceCadetPinball usr/bin/
-debian/extra/PINBALLDATA/* usr/lib/spacecadetpinball
+bin/* usr/bin/
+debian/extra/PINBALLDATA/* usr/share/SpaceCadetPinball
 

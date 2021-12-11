@@ -1,4 +1,4 @@
 Original datafiles from the windows or full tilt version of space cadet pinball
  are required to run the game. 
-These are not distributed and must be extracted tothe install directory 
+These are not distributed and must be extracted to the data directory (/usr/share/SpaceCadetPinball) 
 (or the debian/extra/PINBALLDATA directory if building deb from source)
