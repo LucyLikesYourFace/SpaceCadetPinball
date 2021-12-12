@@ -21,7 +21,7 @@
 # Ensure desktop file executable
 override_dh_fixperms:
 	dh_fixperms
-	chmod 755 debian/spacecadetpinball/usr/share/applications/spacecadetpinball.desktop
+	chmod 755 debian/spacecadetpinball/usr/share/applications/SpaceCadetPinball.desktop
 
 # dh_make generated override targets
 # This is example for Cmake (See https://bugs.debian.org/641051 )
